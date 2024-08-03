@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir2 on My Site</title>
+    <link>https://example.org/dir1/dir2/</link>
+    <description>Recent content in Dir2 on My Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 21:23:12 +0200</lastBuildDate>
+    <atom:link href="https://example.org/dir1/dir2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D</title>
+      <link>https://example.org/dir1/dir2/d/</link>
+      <pubDate>Thu, 01 Aug 2024 21:23:12 +0200</pubDate>
+      <guid>https://example.org/dir1/dir2/d/</guid>
+      <description>this is dir1/dir2/d.md.</description>
+    </item>
+  </channel>
+</rss>
